@@ -104,6 +104,8 @@ main {
 
 .blog-text {
 	float: left;
+	padding-top: 30px;
+	padding-left: 25px;
 }
 
 .blog-date {
