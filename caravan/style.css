@@ -108,6 +108,10 @@ main {
 	padding-left: 25px;
 }
 
+.blog-text-headline {
+	padding-bottom: 15px;
+}
+
 .blog-date {
 	font-size: 12px;
 	display: inline-block;
